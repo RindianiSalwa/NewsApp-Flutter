@@ -1,6 +1,6 @@
 # 📰 NewsApp Flutter
 
-NewsApp adalah aplikasi mobile sederhana berbasis Flutter yang menampilkan berita terkini dari berbagai kategori menggunakan REST API. Proyek ini dibuat sebagai latihan Flutter sekaligus bagian dari tugas pribadi.
+NewsApp adalah aplikasi mobile sederhana berbasis Flutter yang menampilkan berita terkini dari berbagai kategori menggunakan REST API. Proyek ini dibuat sebagai latihan Flutter.
 
 ## 🚀 Fitur Aplikasi
 - Menampilkan daftar berita terkini
@@ -14,5 +14,5 @@ NewsApp adalah aplikasi mobile sederhana berbasis Flutter yang menampilkan berit
 ## 🛠️ Teknologi yang Digunakan
 - [Flutter](https://flutter.dev)
 - [Dart](https://dart.dev)
-- REST API [NewsAPI.org](https://newsapi.org))
+- REST API [NewsAPI.org](https://newsapi.org)
 
