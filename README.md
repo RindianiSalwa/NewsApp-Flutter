@@ -1,16 +1,18 @@
-# newsapp
+# 📰 NewsApp Flutter
 
-A new Flutter project.
+NewsApp adalah aplikasi mobile sederhana berbasis Flutter yang menampilkan berita terkini dari berbagai kategori menggunakan REST API. Proyek ini dibuat sebagai latihan Flutter sekaligus bagian dari tugas pribadi.
 
-## Getting Started
+## 🚀 Fitur Aplikasi
+- Menampilkan daftar berita terkini
+- Menampilkan daftar berita sesuai kategori
+- Tampilan clean dan responsif
+- Navigasi antar halaman berita
+- Baca detail berita
+- Ubah password
+- Delete account
 
-This project is a starting point for a Flutter application.
+## 🛠️ Teknologi yang Digunakan
+- [Flutter](https://flutter.dev)
+- [Dart](https://dart.dev)
+- REST API [NewsAPI.org](https://newsapi.org))
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
