@@ -1,0 +1,54 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+build/
+.cxx/
+.idea/
+android/.gradle/
+android/captures/
+android/key.properties
+android/local.properties
+**/*.iml
+
+# Gradle
+.gradle
+gradlew
+gradlew.bat
+
+# iOS
+ios/Flutter/.last_build_id
+ios/Pods/
+ios/Runner.xcworkspace/
+ios/.symlinks/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/Flutter/Generated.xcconfig
+
+# Web
+web/.dart_tool/
+web/.idea/
+
+# macOS
+macos/Flutter/ephemeral/
+macos/Flutter/.last_build_id
+
+# Windows
+windows/flutter/ephemeral/
+windows/.flutter-plugins
+windows/.flutter-plugins-dependencies
+
+# Linux
+linux/flutter/ephemeral/
+
+# VS Code
+.vscode/
+
+# Keystore files
+*.jks
+*.keystore
+
+# Others
+.DS_Store
